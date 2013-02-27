@@ -1,5 +1,8 @@
 #P3-Prototype-Boilerplate
 
+###Please note - .ai files are available for part 3 if needed. They are located under "P4-iPad-Promo-Site".
+
+
 ###Description
 Collection of files and techniques to streamline the creation of a rapid prototype. The process in not linear - "choose your own adventure" - but all aspects covered. 
 
